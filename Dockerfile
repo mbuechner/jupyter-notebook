@@ -89,3 +89,4 @@ RUN rm -rf "/home/${NB_USER}/.cache/"
 USER ${NB_UID}
 
 WORKDIR "${HOME}"
+HEALTHCHECK NONE
