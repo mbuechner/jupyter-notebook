@@ -28,6 +28,7 @@ wordcloud
 tables
 pyarrow
 matplotlib
+jupyterhub
 jupyterlab
 jupyter-ai
 jupyter-ai-magics
